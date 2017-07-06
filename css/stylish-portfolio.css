@@ -78,7 +78,7 @@ hr.small {
 }
 
 .sidebar-nav {
-    position: absolute;
+    position:absolute;
     top: 0;
     width: 250px;
     margin: 0;
@@ -152,15 +152,16 @@ hr.small {
   }
 
 .header {
-    display: table;
-    position: relative;
-    width: 100%;
-    height: 50%;
-    background: url(../img/sunrise.jpg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+  display: table;
+      position: relative;
+      width: 100%;
+      height: 85%;
+      background: url(../img/sunrise.jpg) no-repeat center center scroll;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+      background-attachment: fixed;
 }
 
 /* About */
