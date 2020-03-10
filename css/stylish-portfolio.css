@@ -156,7 +156,8 @@ hr.small {
       position: relative;
       width: 100%;
       height: 95%;
-      background-image: url("../img/city.jpg");
+      background: url("../img/city.jpg");
+      background-position: center;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
