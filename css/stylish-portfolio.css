@@ -236,6 +236,10 @@ hr.small {
 
 /* Footer */
 
+.fa-facebook{
+  color: #rgb(0, 41, 255);
+}
+
 .mepic{
   height: 250px;
   width:250px;
